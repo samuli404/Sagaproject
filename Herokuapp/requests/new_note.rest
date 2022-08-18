@@ -1,0 +1,5 @@
+POST http://localhost:3001/api/reminders Content-Type: application/json
+
+{
+"name": "MAAHANMUUTONVIRASTO", "timestamp": "2024-06-17T15:50"
+}
